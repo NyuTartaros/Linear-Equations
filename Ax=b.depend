@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1412944118 source:f:\projects\ax=b(solve linear equations)\elimi.cpp
+	"DataStruct.h"
+	"fOpera.h"
+
+1412985172 f:\projects\ax=b(solve linear equations)\datastruct.h
+
+1412945026 f:\projects\ax=b(solve linear equations)\fopera.h
+
+1412945364 source:f:\projects\ax=b(solve linear equations)\fopera.cpp
+	"DataStruct.h"
+
+1412985976 source:f:\projects\ax=b(solve linear equations)\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<memory.h>
+	"DataStruct.h"
+	"elimi.h"
+
+1412943978 f:\projects\ax=b(solve linear equations)\elimi.h
+
